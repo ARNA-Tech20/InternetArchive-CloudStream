@@ -1,0 +1,9 @@
+{
+    "name": "Internet Archive",
+    "description": "Public-domain and Creative Commons films and classic TV from archive.org (English).",
+    "manifestVersion": 1,
+    "iconUrl": "https://archive.org/images/glogo.jpg",
+    "pluginLists": [
+        "https://raw.githubusercontent.com/ARNA-Tech20/InternetArchive-CloudStream/builds/plugins.json"
+    ]
+}

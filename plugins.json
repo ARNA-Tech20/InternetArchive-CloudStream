@@ -1,0 +1,25 @@
+[
+    {
+        "iconUrl": "https://archive.org/images/glogo.jpg",
+        "fileHash": "sha256-a4a0c5e65c189fcfafdcf971c6b30412628df70206331911d2fa9e7eea778c4f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ARNA-Tech20/InternetArchive-CloudStream",
+        "fileSize": 24738,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Ricky Azwan"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Cartoon",
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "InternetArchiveProvider",
+        "description": "Public-domain and Creative Commons films, classic TV, silent films and cartoons from the Internet Archive (archive.org). English only.",
+        "url": "https://raw.githubusercontent.com/ARNA-Tech20/InternetArchive-CloudStream/builds/InternetArchiveProvider.cs3",
+        "name": "InternetArchiveProvider"
+    }
+]
